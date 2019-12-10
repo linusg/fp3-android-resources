@@ -25,4 +25,5 @@ The release dates below aren't official but rather the date on which the update 
 ## See also
 
 - [`k65onyx/fp3-notes`](https://github.com/k65onyx/fp3-notes)
+- [`Development` section in the community forum](https://forum.fairphone.com/c/participate/dev)
 - https://en.wikipedia.org/wiki/Fairphone_3
