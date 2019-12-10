@@ -21,3 +21,8 @@ The release dates below aren't official but rather the date on which the update 
 
 - FP2 port: [`LineageOS/android_device_fairphone_FP2`](https://github.com/LineageOS/android_device_fairphone_FP2)
 - FP2 build instructions: https://wiki.lineageos.org/devices/FP2/build
+
+## See also
+
+- [`k65onyx/fp3-notes`](https://github.com/k65onyx/fp3-notes)
+- https://en.wikipedia.org/wiki/Fairphone_3
