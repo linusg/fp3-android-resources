@@ -7,7 +7,7 @@
 
 ## OTA update ZIP files
 
-The OTA update ZIP files are hosted on `https://android.googleapis.com/packages/ota-api/fairphone_fp3_fp3`. Unlike on the FP2 there's no Fairphone-specific updater app, instead system updates are performed by the *Google Play services* app (invoked via *Settings 🡒 System 🡒 Advanced 🡒 System update*).
+The OTA update ZIP files are hosted on `https://android.googleapis.com/packages/ota-api/fairphone_fp3_fp3`. Unlike on the FP2 there's no Fairphone-specific updater app, instead system updates are performed by the *Google Play services* app (invoked via *Settings -> System -> Advanced -> System update*).
 
 The release dates below aren't official but rather the date on which the update is first received and mentioned by a FP3 user.
 
