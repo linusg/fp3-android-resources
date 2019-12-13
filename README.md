@@ -7,7 +7,7 @@
 
 ## OTA update ZIP files
 
-The OTA update ZIP files are hosted on `https://android.googleapis.com/packages/ota-api/fairphone_fp3_fp3`. Unlike on the FP2 there's no Fairphone-specific updater app, instead system updates are performed by the *Google Play services* app (invoked via *Settings -> System -> Advanced -> System update*). The service which provides the updates is ["Android Over The Air"](developers.google.com/android/over-the-air).
+The OTA update ZIP files are hosted on `https://android.googleapis.com/packages/ota-api/fairphone_fp3_fp3`. Unlike on the FP2 there's no Fairphone-specific updater app, instead system updates are performed by the *Google Play services* app (invoked via *Settings -> System -> Advanced -> System update*). The service which provides the updates is ["Android Over The Air"](https://developers.google.com/android/over-the-air).
 
 The updates are all delta-updates (a.k.a not full images, brotli-compressed bsdiff mostly it seems). Thanks to [**@z3ntu**](https://github.com/z3ntu) for this information.
 
