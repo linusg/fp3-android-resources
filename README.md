@@ -78,6 +78,28 @@ The release dates below aren't official but rather the date on which the update 
     pre-build-incremental=10011803
     pre-device=FP3
     ```
+- **A.0105**, released 2019-12-18:
+  - [`eab40c208c6bd6899b51e7103822972d7a40336c.zip`](https://android.googleapis.com/packages/ota-api/fairphone_fp3_fp3/eab40c208c6bd6899b51e7103822972d7a40336c.zip) ([forum post](https://forum.fairphone.com/t/has-anybody-received-the-latest-security-update-yet/55045/44))
+  
+    Patch level: [2019-12-05](https://source.android.com/security/bulletin/2019-12-01)
+
+    Upgrade from: **A.0101**
+
+    Full contents of `META-INF/com/android/metadata`:
+    ```
+    ota-property-files=payload_metadata.bin:9232:650816,payload.bin:9232:100422985,payload_properties.txt:100432275:155,care_map.txt:843:246,compatibility.zip:1142:8043,metadata:69:726                
+    ota-required-cache=0
+    ota-streaming-property-files=payload.bin:9232:100422985,payload_properties.txt:100432275:155,care_map.txt:843:246,compatibility.zip:1142:8043,metadata:69:726                  
+    ota-type=AB
+    post-build=Fairphone/FP3/FP3:9/8901.2.A.0105.20191217/12171325:user/release-keys
+    post-build-incremental=12171325
+    post-sdk-level=28
+    post-security-patch-level=2019-12-05
+    post-timestamp=1576561122
+    pre-build=Fairphone/FP3/FP3:9/8901.2.A.0101.20191115/11150009:user/release-keys
+    pre-build-incremental=11150009
+    pre-device=FP3
+    ```
 
 ## LineageOS
 
